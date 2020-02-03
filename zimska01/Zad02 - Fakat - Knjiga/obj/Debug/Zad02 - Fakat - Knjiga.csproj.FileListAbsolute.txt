@@ -1,0 +1,6 @@
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\bin\Debug\Zad02 - Fakat - Knjiga.exe.config
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\bin\Debug\Zad02 - Fakat - Knjiga.exe
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\bin\Debug\Zad02 - Fakat - Knjiga.pdb
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\obj\Debug\Zad02 - Fakat - Knjiga.csproj.CoreCompileInputs.cache
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\obj\Debug\Zad02 - Fakat - Knjiga.exe
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zad02 - Fakat - Knjiga\obj\Debug\Zad02 - Fakat - Knjiga.pdb

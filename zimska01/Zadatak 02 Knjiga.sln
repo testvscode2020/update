@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak 02 Knjiga", "Zadatak 02 Knjiga\Zadatak 02 Knjiga.csproj", "{700A5AEB-69B4-4B7A-B4A8-52ABD4B1FA4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad02 - Fakat - Knjiga", "Zad02 - Fakat - Knjiga\Zad02 - Fakat - Knjiga.csproj", "{DF9E5FB8-B0E7-4F7F-89ED-B4375F4F8D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{700A5AEB-69B4-4B7A-B4A8-52ABD4B1FA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{700A5AEB-69B4-4B7A-B4A8-52ABD4B1FA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{700A5AEB-69B4-4B7A-B4A8-52ABD4B1FA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{700A5AEB-69B4-4B7A-B4A8-52ABD4B1FA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9E5FB8-B0E7-4F7F-89ED-B4375F4F8D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9E5FB8-B0E7-4F7F-89ED-B4375F4F8D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9E5FB8-B0E7-4F7F-89ED-B4375F4F8D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9E5FB8-B0E7-4F7F-89ED-B4375F4F8D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E45BF6-21AB-4FE1-9E2D-B5066C39D6F0}
+	EndGlobalSection
+EndGlobal

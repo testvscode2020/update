@@ -1,0 +1,7 @@
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\bin\Debug\Zadatak 02 Knjiga.exe.config
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\bin\Debug\Zadatak 02 Knjiga.exe
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\bin\Debug\Zadatak 02 Knjiga.pdb
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\obj\Debug\Zadatak 02 Knjiga.csprojAssemblyReference.cache
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\obj\Debug\Zadatak 02 Knjiga.csproj.CoreCompileInputs.cache
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\obj\Debug\Zadatak 02 Knjiga.exe
+C:\Users\office10\source\repos\Zadatak 02 Knjiga\Zadatak 02 Knjiga\obj\Debug\Zadatak 02 Knjiga.pdb
